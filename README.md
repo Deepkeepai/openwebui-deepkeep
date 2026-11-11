@@ -1,5 +1,11 @@
 # DeepKeep Open WebUI Filter
 
+> **Development moved:** This integration is maintained in the
+> [DeepKeep integrations monorepo](https://github.com/Deepkeepai/deepkeep-integrations/tree/main/integrations/openwebui).
+> Please open new [issues](https://github.com/Deepkeepai/deepkeep-integrations/issues) and pull requests in the monorepo.
+> Existing raw-file installation URLs and the [v0.1.1 release](https://github.com/Deepkeepai/openwebui-deepkeep/releases/tag/v0.1.1) remain available here.
+> Historical source and release links are retained; no filter re-import is needed for this repository move.
+
 Native Open WebUI Filter Function for DeepKeep AI Firewall using the DeepKeep v3 OpenAI-compatible moderation API.
 
 ## File
@@ -10,7 +16,7 @@ Native Open WebUI Filter Function for DeepKeep AI Firewall using the DeepKeep v3
 
 - `LICENSE`: MIT license.
 - `SECURITY.md`: vulnerability reporting and operational security notes.
-- `COMMUNITY_LISTING.md`: draft text for the Open WebUI Community listing.
+- `COMMUNITY_LISTING.md`: historical draft text; the [published community listing](https://openwebui.com/posts/11544def-a732-4f5a-bb04-8df2e9fedd7e) now points to the monorepo.
 - `.github/workflows/test.yml`: GitHub Actions test workflow for public repository CI.
 
 ## What It Does
